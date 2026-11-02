@@ -28,7 +28,7 @@ This server intentionally includes several security anti-patterns that mcp-scan 
 
 ### Install Dependencies
 ```bash
-pip install 'mcp[cli]'
+pip install 'mcp[cli]<2'
 ```
 
 ### Run the Server
